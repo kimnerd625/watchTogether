@@ -1,0 +1,8 @@
+[[redirects]]
+from = "https://watchtogether1.netlify.app/api/v1/*"
+to = "http://3.38.9.104:8081/:splat"
+status = 200
+[[redirects]]
+from = "https://watchtogether1.netlify.app/api/v2/*"
+to = "http://3.38.9.104:8080/:splat"
+status = 200
