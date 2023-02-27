@@ -1,4 +1,5 @@
 # watchTogether
+![111111](https://user-images.githubusercontent.com/104896647/221513663-4a06bdfc-d71c-4900-9a33-2924049d166e.png)
 ![가치와치 썸네일](https://user-images.githubusercontent.com/104896647/221491172-822e6550-eb7a-4f5f-b823-9e1e8556b048.jpg)
 ## 가치와치 시연 동영상
 https://www.youtube.com/watch?v=mwI1J1DVEpc
